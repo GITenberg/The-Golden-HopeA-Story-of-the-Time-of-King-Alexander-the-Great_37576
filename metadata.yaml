@@ -1,0 +1,28 @@
+_repo: The-Golden-HopeA-Story-of-the-Time-of-King-Alexander-the-Great_37576
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fuller, Robert H. (Robert Higginson)
+    birthdate: 1865
+    deathdate: 1927
+    gutenberg_agent_id: '38924'
+    url: http://www.gutenberg.org/2009/agents/38924
+description: ''
+gutenberg_issued: '2011-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Greece -- History -- Macedonian Expansion, 359-323 B.C. -- Fiction'
+- !lcsh 'Alexander, the Great, 356-323 B.C. -- Fiction'
+- !lcsh 'Adventure stories'
+title: 'The Golden Hope: A Story of the Time of King Alexander the Great'
+url: http://www.gutenberg.org/ebooks/37576
